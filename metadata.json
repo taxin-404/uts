@@ -1,0 +1,6 @@
+{
+  "name": "উদ্দীপ্ত তরুণ সংঘ",
+  "description": "ইসলামিক দাওয়াহ এবং গবেষণা প্রবন্ধ প্লাটফর্ম (Islamic Dawah & Research Article Platform)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
